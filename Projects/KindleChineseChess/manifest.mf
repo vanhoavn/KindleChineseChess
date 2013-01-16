@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: KindleChineseChess
+Implementation-Vendor: vhnvn
+Implementation-Version: 0.1.0
+Extension-List: SDK
+SDK-Extension-Name: com.amazon.kindle.kindlet
+SDK-Specification-Version: 2.1
+Font-Size-Mode: point
+
